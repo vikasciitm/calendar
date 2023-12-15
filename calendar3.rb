@@ -130,7 +130,6 @@ while true
             if mon!=0
                 obj1.calenda_val(yea,mon)
             end
-            print "\n",mon
         end
         if mon==0
             mon=12
